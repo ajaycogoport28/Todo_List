@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#todo_list
+{
+    /* background-color: red; */
+    /* text-align: center; */
+}
+/* Containers */
+.container1
+{
+    margin: 50px 100px;
+    padding:20px 10px;
+    border: 1px solid red;
+}
+.main-container11
+{
+padding: 0 20px;
+}
+
+.cont11
+{
+    padding-bottom: 20px;
+}
+.button1 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #DF7861;
+    border: 1px solid #06283D;
+    border-radius: 10px;
+    color: white;
+    padding: 0px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin:0;
+    cursor: pointer;
+}
+
+.chbox
+{
+    padding-right:2px;
+    border:2px solid red ;
+}
+
+.spacebtnch
+{
+    margin-left: 20px;
+}
+
+.spaceclass
+{
+    padding-right: 30px;
+    display:inline;
+}
